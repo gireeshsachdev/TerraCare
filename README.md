@@ -63,7 +63,7 @@ Here are our findings:
 
 <div style="text-align: center;">
     <a href="https://www.youtube.com/watch?v=GRdKvoud_L0">
-        <img src="https://i.imgur.com/UldzEa3.png" style="width: 80%; height: 80%;"/>
+        <img src="https://i.imgur.com/33WxfLd.png" style="width: 80%; height: 80%;"/>
     </a>
 </div>
 
@@ -128,6 +128,11 @@ In addition to these features, our objective is to inform individuals about the 
 - TerraBoard leaderboard showcases the users with most cleanups.
 - Points can be redeemed for eco-friendly products from sustainable companies.
 - Users can track the number of cleanups they have done and the impact they have made.
+
+### 🚀 &nbsp;Upcoming Features
+
+- Junkman Feature
+- AI Environmental Chatbot
 
 ## 👨🏻‍💻 &nbsp;Our Tech Stack
 
